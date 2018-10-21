@@ -1,0 +1,56 @@
+
+## Values and Needs
+
+- agility
+  - freely mutable code base
+  - feature tests
+  - regression tests
+  - ci & cd
+  - blue green deployments
+  - fast builds
+  - keep maintenance cost low
+- observability
+  - logs
+  - software metrics
+  - business metrics
+  - tracing
+  - step by step debugger
+  - health checks
+  - RED
+- reliable
+  - encapsulated domains
+  - predictable behavior
+  - fault tolerant
+  - resilient
+  - constant performance
+  - bit by bit repeatable deployments
+  - isolated persistance
+- correct
+  - alerting
+  - automated tests
+  - latency tests
+  - throughput tests
+- comprehensible
+  - know the inputs to the system
+    - user intends
+    - importers
+    - calls to external api
+  - clean code structure
+  - be able to always work with a production data set
+  - everything (code, dependencies, config, builds steps, build tools) as code in a vcs
+
+exactly once never happens
+CRDT
+
+what
+why (what does it provide)
+how (what is needed to do it)
+tech (tools are needed by inherante bugs)
+
+## Workflow
+You build it, you run it. - Werner Vogels
+
+## Architecture
+
+## Technologies
+
